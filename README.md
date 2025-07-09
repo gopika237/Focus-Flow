@@ -7,7 +7,7 @@ Stay organized, focused and in control of your day with this all in one task man
 
 ## 🌐 Live Demo
 
-🔗 [https://gopika237.github.io/focusflow/](https://gopika237.github.io/focusflow/)         |
+🔗 [https://gopika237.github.io/Focus-Flow/](https://gopika237.github.io/Focus-Flow/)         |
 
 ---
 
