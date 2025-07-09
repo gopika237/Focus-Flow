@@ -1,7 +1,7 @@
 # FocusFlow 
-**FocusFlow** is a beautifully designed, responsive and distraction-free to-do list app built with pure **HTML, CSS, and JavaScript** — no frameworks, no libraries, just clean frontend magic ✨
+**FocusFlow** is a beautifully designed, responsive and distraction free to-do list web built with pure **HTML, CSS, and JavaScript** with just clean frontend magic ✨
 
-Stay organized, focused and in control of your day with this all-in-one task manager that lives entirely in your browser.
+Stay organized, focused and in control of your day with this all in one task manager that lives entirely in your browser.
 
 ---
 
@@ -29,9 +29,9 @@ Stay organized, focused and in control of your day with this all-in-one task man
 ## 🚀 Technical Highlights
 
 - 🧱 **Pure HTML/CSS/JS**: No build tools or external frameworks
-- 🧠 **Local Storage**: All data stays on your device — private & persistent
-- 🎞 **Smooth Animations**: Slide-ins, fade-outs, and microinteractions
-- ♿ **Accessibility**: Tab navigation, focus states, and ARIA roles
+- 🧠 **Local Storage**: All data stays on your device private & persistent
+- 🎞 **Smooth Animations**: Slide-ins, fade-outs and microinteractions
+- ♿ **Accessibility**: Tab navigation, focus states and ARIA roles
 - ⚡ **Performance Optimized**: Lightweight DOM updates and minimal re-renders
 
 ---
