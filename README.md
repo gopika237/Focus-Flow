@@ -1,5 +1,4 @@
-# 🎯 FocusFlow — a Minimal To-Do Web for Max Productivity
-
+# FocusFlow 
 **FocusFlow** is a beautifully designed, responsive and distraction-free to-do list app built with pure **HTML, CSS, and JavaScript** — no frameworks, no libraries, just clean frontend magic ✨
 
 Stay organized, focused and in control of your day with this all-in-one task manager that lives entirely in your browser.
